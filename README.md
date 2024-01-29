@@ -89,7 +89,7 @@
 ### Задание 2. Установка и настройка локального kubectl
 1. Установить на локальную машину kubectl.
 <p align="center">
-    <img width="1200 height="600" src="/img/snap_install.png">
+    <img width="1200 height="600" src="/img/kubectl_install.png">
 </p>
 
 2. Настроить локально подключение к кластеру.
